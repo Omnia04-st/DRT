@@ -27,7 +27,6 @@ This project aims to solve these challenges by applying structured digital marke
 - [Strengthen brand positioning by increasing engagement rate by 30% while maintaining a consistent premium visual identity within 3 months.
 ]  
 - [Expand a targeted audience by growing followers by 25% within 4 months, focusing on high-intent furniture buyers.
-
 ]  
 - [Generate 50+ qualified monthly inquiries through WhatsApp and Direct Messages within 3 months.
 ]  
