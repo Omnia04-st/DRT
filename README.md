@@ -5,7 +5,7 @@
 ##  Team Members
 - **Omnia Moharram Galal**  
 - **Manar Hassan Hussien**  
-- **Sarah Tarek Mohame**  
+- **Sarah Tarek Mohamed**  
 - **Alaa sayed Ibrahim**  
 - **Rawan Adel Gomaa**
 - **Omar abdelaziz abdelfatah**
@@ -39,7 +39,7 @@ This project aims to solve these challenges by applying structured digital marke
 - The project also covers content planning, customer journey mapping, and performance measurement through defined KPIs.]  
 -However, the scope does not include the physical production process of kitchens, financial restructuring, operational management, or direct sales execution. The focus is strictly on the strategic marketing planning and presentation of a structured growth roadmap.]  
  ---
-   >  **Final Deliverable:** The final deliverable is a professional presentation outlining a complete SOSTAC marketing strategy for the kitchen showroom, providing a clear, actionable roadmap to increase brand awareness, generate leads, and drive sales.]
+   >  **Final Deliverable:** The final deliverable is a professional presentation outlining a complete digital marketing strategy for the kitchen showroom, providing a clear, actionable roadmap to increase brand awareness, generate leads, and drive sales.]
 ---
 ## Project Plan (5 Weeks)
 
